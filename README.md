@@ -2,14 +2,17 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
+
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering systematically is the engineering prinples used to develop and maintain high quality software systems.
 It is important in the creation of software applications and operatting systems that power different aspects of life.
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 The release of the first successful personal computer Apple II in1977 which brought computer access to people.
 Development of high level modern programing langguages like Python, Java and C++
 The creation of the first programming language Fortron in 1957
 The rise of the internet in the 1990's which enabled close interacttions of the computer with people.
+
 List and briefly explain the phases of the Software Development Life Cycle.
 Design. The design phase is where you put pen to paper wherethe  original plan and vision are elaborated into a software design document that includes the system design, programming language, templates, etc
 Development. Is where the development team members divide the project into software modules and turn the software requirement into code that makes the product. 
@@ -17,8 +20,10 @@ Testing. Before getting the software product out the door to the production envi
 Deployment. During the deployment phase, your final product is delivered to your intended user.
 Maintainance. 
 This is where the final software product is keptt in checks to meet the required standards.
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall methodology is where a project has to meet a strict regulation as it requires deliverables for each phase before proceding, whereas Agile methodology is suited forteans that pllan on moving fast, experimenting with direction and dont even know how the final product will look like.
+
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer.
 Design, creating software architecture, design documents, among others.
@@ -36,6 +41,7 @@ Leader, guides the team ensuring collaboration and motivation.
 Communicator, acts as center of contact between the stakeholders, team members and upper management.
 Quality assurance advocate, he emphasises the required product quality to team members.
 Project planning, he structures out whatever is needed for a project to run.
+
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Intergrated Development Environments.
 Enhanced productivity due to a comprehesive set of tools within a single application eg code editors and debuggers which helps to work without swwitching between multtiole applications.
@@ -57,9 +63,9 @@ Examples include.
 Git
 subversion (SVN)
 Mercurial
+
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Managing complexity. As software systemes grow, they can become increasingly complex making it difficult to understand and mange the codebase.
-
 >You go about it by breaking down the system into smaller manageable units.
 >Documentation is essenttial to enable other developers follow up without confusion.
 Debugging and trouble shooting. identifying and fixing bugs can mean to be frustrating and time consuming.
@@ -75,6 +81,7 @@ Keeping up with technology. the tech world evolves on aa daily making it challen
 Collaboration and communication. conflicts and misunderstandings if the communication is not effective.
 >Regular meetings
 >clear documantations.
+>
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit testing
 It involves testing individual components of software in isolation to verify that they work as intended.
@@ -90,6 +97,7 @@ This evaluates the complete and intergrated software application to ensure it me
 Acceptance testing
 It is performed to determine whether the software meets the acceptance criteria and is ready for delivery to end users.
 >User validattion which involve actual users to validate that the software meetts their needs and expectations.
+>
 #Part 2: Introduction to AI and Prompt Engineering
 Define prompt engineering and discuss its importance in interacting with AI models.
 It is the practice of designing and refining the input prompts given to Artificial Intelligence models, particulary language models to elicit the most accurate relevant and useful responses.
