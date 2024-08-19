@@ -89,6 +89,7 @@ Collaboration and communication. conflicts and misunderstandings if the communic
 >Regular meetings
 >clear documantations.
 
+
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit testing
 It involves testing individual components of software in isolation to verify that they work as intended.
@@ -105,9 +106,8 @@ Acceptance testing
 It is performed to determine whether the software meets the acceptance criteria and is ready for delivery to end users.
 >User validattion which involve actual users to validate that the software meetts their needs and expectations.
 
+
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 It is the practice of designing and refining the input prompts given to Artificial Intelligence models, particulary language models to elicit the most accurate relevant and useful responses.
 >Improved output quality
@@ -115,6 +115,7 @@ It is the practice of designing and refining the input prompts given to Artifici
 >Customization of required output
 >Error reduction
 >Interactive improvement
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 What is the best way to prepare chicken wings for a party?
