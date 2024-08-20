@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 This is the process of designing, developing, and maintaining software
-Software engineering focuses on the systematic approach to the development, operation, and maintenance of software applications and systems. This includes various activities such as requirement analysis, design, coding, testing, deployment, and ongoing maintenance.
+Software engineering focuses on the systematic approach to the development, operation, and maintenance of software applications and systems, which includes various activities such as requirement analysis, design, coding, testing, deployment, and ongoing maintenance.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
